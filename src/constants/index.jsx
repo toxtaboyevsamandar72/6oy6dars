@@ -1,0 +1,1 @@
+export const brands = ["audio", "BMW", "Mercedes", "GM"]
