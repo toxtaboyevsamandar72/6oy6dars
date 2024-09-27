@@ -3,10 +3,10 @@ import React from "react";
 function Footer() {
   return (
     <div>
-      <footer className="footer footer-center bg-base-300 text-base-content p-4">
+      <footer className="footer footer-center text-black p-4 bg-zinc-50 shadow-xl">
         <aside>
           <p>
-            Copyright © {new Date().getFullYear()} - All right reserved by ACME
+            Copyright © {new Date().getFullYear()} - All rights reserved by ACME
             Industries Ltd
           </p>
         </aside>
